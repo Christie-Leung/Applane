@@ -1,0 +1,45 @@
+{"accounts": [
+    {
+        "password": "mary",
+        "last name": "Smith",
+        "first name": "Mary",
+        "phone": "778",
+        "booked flights": [],
+        "middle name": "",
+        "uuid": "449e7acf-2cb8-4df6-a634-15682523e0c7",
+        "email": "mary",
+        "date of birth": "2000-10-11"
+    },
+    {
+        "password": "christie",
+        "last name": "Leung",
+        "first name": "Christie",
+        "phone": "780",
+        "booked flights": [{
+            "seat": 2,
+            "flight": {
+                "arrival": "2022-04-24 00:25",
+                "first class price": 0,
+                "destination": "YEG",
+                "business price": 0,
+                "flight number": 246,
+                "uuid": "2e92d58b-dbc6-48ff-bc19-763e8185e3e9",
+                "remaining business seats": 79,
+                "gate number": -1,
+                "max seats": 300,
+                "economy price": 0,
+                "remaining economy seats": 200,
+                "remaining first class seats": 20,
+                "airplane model": "TBD",
+                "departure": "2022-04-24 18:00",
+                "airline": "AC",
+                "start location": "YVR"
+            },
+            "uuid": "2e92d58b-dbc6-48ff-bc19-763e8185e3e9"
+        }],
+        "middle name": "",
+        "uuid": "940f64cc-2275-46d2-b5bc-513ed60f7c83",
+        "email": "christie",
+        "date of birth": "2003-03-24"
+    }
+]}
